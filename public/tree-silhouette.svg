@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="#0a0a0a">
+  <!-- Main tree trunk -->
+  <path d="M380 600 L380 350 Q370 300 350 280 Q320 260 300 200 Q280 150 320 100 Q360 50 400 40 Q440 50 480 100 Q520 150 500 200 Q480 260 450 280 Q430 300 420 350 L420 600 Z" opacity="0.9"/>
+
+  <!-- Left branches -->
+  <path d="M350 280 Q300 260 250 280 Q200 300 180 260 Q160 220 200 180 Q240 140 280 160 Q320 180 350 200" opacity="0.85"/>
+  <path d="M300 200 Q250 180 220 140 Q190 100 230 70 Q270 40 300 80 Q330 120 320 160" opacity="0.8"/>
+  <path d="M250 280 Q200 320 150 300 Q100 280 120 230 Q140 180 180 200 Q220 220 250 260" opacity="0.75"/>
+
+  <!-- Right branches -->
+  <path d="M450 280 Q500 260 550 280 Q600 300 620 260 Q640 220 600 180 Q560 140 520 160 Q480 180 450 200" opacity="0.85"/>
+  <path d="M500 200 Q550 180 580 140 Q610 100 570 70 Q530 40 500 80 Q470 120 480 160" opacity="0.8"/>
+  <path d="M550 280 Q600 320 650 300 Q700 280 680 230 Q660 180 620 200 Q580 220 550 260" opacity="0.75"/>
+
+  <!-- Crown foliage clusters -->
+  <ellipse cx="400" cy="80" rx="120" ry="60" opacity="0.7"/>
+  <ellipse cx="320" cy="120" rx="80" ry="50" opacity="0.65"/>
+  <ellipse cx="480" cy="120" rx="80" ry="50" opacity="0.65"/>
+  <ellipse cx="280" cy="180" rx="70" ry="45" opacity="0.6"/>
+  <ellipse cx="520" cy="180" rx="70" ry="45" opacity="0.6"/>
+  <ellipse cx="200" cy="220" rx="60" ry="40" opacity="0.55"/>
+  <ellipse cx="600" cy="220" rx="60" ry="40" opacity="0.55"/>
+
+  <!-- Roots -->
+  <path d="M380 600 Q350 580 320 600 Q290 590 260 600" opacity="0.9"/>
+  <path d="M420 600 Q450 580 480 600 Q510 590 540 600" opacity="0.9"/>
+  <path d="M400 600 Q400 580 400 560 Q380 540 360 560 Q340 580 320 560" opacity="0.85"/>
+  <path d="M400 560 Q420 540 440 560 Q460 580 480 560" opacity="0.85"/>
+
+  <!-- Additional smaller trees in background -->
+  <!-- Left small tree -->
+  <path d="M80 600 L90 500 Q70 450 60 400 Q50 350 80 320 Q110 290 100 260 Q90 230 120 200 Q150 170 130 150 L130 150 Q160 180 150 220 Q140 260 160 290 Q180 320 150 380 Q120 440 130 500 L120 600 Z" opacity="0.5"/>
+  <ellipse cx="100" cy="180" rx="50" ry="35" opacity="0.4"/>
+  <ellipse cx="70" cy="220" rx="40" ry="30" opacity="0.35"/>
+  <ellipse cx="130" cy="240" rx="40" ry="30" opacity="0.35"/>
+
+  <!-- Right small tree -->
+  <path d="M720 600 L710 520 Q730 470 740 420 Q750 370 720 340 Q690 310 700 280 Q710 250 680 220 Q650 190 670 170 L670 170 Q640 200 650 240 Q660 280 640 310 Q620 340 650 400 Q680 460 670 520 L680 600 Z" opacity="0.5"/>
+  <ellipse cx="700" cy="200" rx="50" ry="35" opacity="0.4"/>
+  <ellipse cx="730" cy="240" rx="40" ry="30" opacity="0.35"/>
+  <ellipse cx="670" cy="260" rx="40" ry="30" opacity="0.35"/>
+
+  <!-- Ground/fog effect -->
+  <ellipse cx="400" cy="620" rx="450" ry="60" opacity="0.3"/>
+</svg>
+
